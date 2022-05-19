@@ -4,6 +4,6 @@ I'm posting UNI.T's personal projects I'm a college student and I'm planning to 
 
 Unity個人開発プロジェクトをアップロードします 現在大学生で勉強、課題などをアップロードする予定です
 
-<div align=Left>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hanrcboy94@gmail.com)](mailto:snugyun01@gmail.com)
-</div>
+  <div align=left>
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+  </div>
